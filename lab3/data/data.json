@@ -1,0 +1,33 @@
+[
+    
+    {
+        "firstname": "Saima",
+        "lastname": "Ratri",
+        "gender": "female",
+        "age": "36",
+        "guardiansname": "abbu",
+        "username": "ratto10",
+        "pass": "12ratri@",
+        "email": "fbgbhbgf@gmail.com",
+        "presentaddress": "27 , DHAKA , 1211",
+        "nid": "12345678",
+        "phone": "01763703412",
+        "cvpath": "",
+        "imgpath": ""
+    },
+    {
+        "firstname": "Saima",
+        "lastname": "Ratri",
+        "gender": "female",
+        "age": "36",
+        "guardiansname": "abbu",
+        "username": "ratto10",
+        "pass": "12ratri@",
+        "email": "fbgbhbgf@gmail.com",
+        "presentaddress": "27 , DHAKA , 1211",
+        "nid": "12345678",
+        "phone": "01763703412",
+        "cvpath": "..\/uploads\/RM3.pdf",
+        "imgpath": ""
+    }
+]
